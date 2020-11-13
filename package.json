@@ -1,0 +1,29 @@
+{
+  "name": "goit-js-hw-12-countries",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel ./src/index.html",
+    "build": "parcel build ./src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vosap2007/goit-js-hw-12-countries.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vosap2007/goit-js-hw-12-countries/issues"
+  },
+  "homepage": "https://github.com/vosap2007/goit-js-hw-12-countries#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  },
+  "dependencies": {
+    "handlebars": "^4.7.6",
+    "lodash": "^4.17.20",
+    "lodash.debounce": "^4.0.8",
+    "pnotify": "^5.2.0"
+  }
+}
