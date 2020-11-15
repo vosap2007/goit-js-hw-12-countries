@@ -1,0 +1,33 @@
+.name {
+  color: blue;
+  margin-left: 370px;
+  font-size: 250%;
+}
+
+.block {
+  display: flex;
+  flex-direction: column;
+}
+
+.flag {
+  margin-left: 50px;
+}
+
+.text {
+  font-weight: bold;
+  color: green;
+  margin-top: 0px;
+  margin-right: 20px;
+}
+
+.parametres {
+  display: flex;
+}
+
+.koko {
+  display: flex;
+}
+
+.list {
+  list-style-type: none;
+}
